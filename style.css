@@ -1,0 +1,31 @@
+
+/* Header */
+h1 {
+  font-size: 32px;
+  letter-spacing: 2px;
+  color: #fff;
+  text-shadow: 2px 0 #131313;
+  font-family: Georgia, serif;
+  text-align:center;
+}
+
+/* Body */
+html, body {
+    background-image: url("snakebgr.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: arial, sans-serif;
+  }
+
+  /* Footer */
+  footer {
+    position: absolute;
+    padding: 32px;
+    right:0;bottom:0;left:0;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+  }
